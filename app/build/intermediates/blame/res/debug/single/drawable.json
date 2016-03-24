@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/gigabud/Documents/studioworkspace/GameDagger/app/build/intermediates/res/merged/debug/drawable/map_background.png",
+        "source": "/home/gigabud/Documents/studioworkspace/GameDagger/app/src/main/res/drawable/map_background.png"
+    },
+    {
+        "merged": "/home/gigabud/Documents/studioworkspace/GameDagger/app/build/intermediates/res/merged/debug/drawable/map_l.png",
+        "source": "/home/gigabud/Documents/studioworkspace/GameDagger/app/src/main/res/drawable/map_l.png"
+    },
+    {
+        "merged": "/home/gigabud/Documents/studioworkspace/GameDagger/app/build/intermediates/res/merged/debug/drawable/map_n.png",
+        "source": "/home/gigabud/Documents/studioworkspace/GameDagger/app/src/main/res/drawable/map_n.png"
+    },
+    {
+        "merged": "/home/gigabud/Documents/studioworkspace/GameDagger/app/build/intermediates/res/merged/debug/drawable/map_u.png",
+        "source": "/home/gigabud/Documents/studioworkspace/GameDagger/app/src/main/res/drawable/map_u.png"
+    }
+]
