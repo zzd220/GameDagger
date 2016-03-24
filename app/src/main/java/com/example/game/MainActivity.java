@@ -14,10 +14,7 @@ public class MainActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-//        setContentView(R.layout.activity_main);
 		Log.e("ddddddd", "onCreate");
-//		setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_LANDSCAPE);
-//		if (gameView==null)
         gameView = new GameView(MainActivity.this);
         setContentView(gameView);
     }
